@@ -1,0 +1,147 @@
+.logo{
+    width: 68px;
+    height: 63px;
+    position: absolute;
+    left: 1%;
+    border-radius: 50%;
+    /* top: 0%; */
+}
+#get{
+    color: black;
+    background-color: lightgray;
+}
+#get:hover{
+    background-color: white;
+}
+#name{
+    color: white;
+}
+/* .water{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    left: 10%;
+    top: 35%;
+}
+.water2{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    left: 60%;
+    top: 35%;
+}
+#section{
+    margin-top: -4%;
+}
+#but1{
+    background-color: black;
+}
+#but1:hover{
+    background-color: gray;
+} */
+#nav1{
+    color: lightgray;
+}
+#nav1:hover{
+color: white;
+font-weight: 500;
+}
+#nav2{
+    color: lightgray;
+}
+#nav2:hover{
+color: white;
+font-weight: 500;
+}
+#nav3{
+    color: lightgray;
+}
+#nav3:hover{
+color: white;
+font-weight: 500;
+}
+#nav4{
+    color: lightgray;
+}
+#nav4:hover{
+color: white;
+font-weight: 500;
+}
+/* .fix{
+   position: fixed;
+} */
+
+#but1{
+    background-color: black;
+}
+
+#but1:hover{
+    background-color: gray;
+}
+#but2{
+    color: black;
+}
+header{
+    background-color: black;
+}
+#places{
+    background-color: black;
+    color: white;
+}
+#places h2{
+    color: white;
+}
+#places p{
+    color: lightgray;
+}
+#places:hover{
+    background-color: gray;
+    color: black;
+}
+#sec{
+    background-color: whitesmoke;
+}
+#servicessec{
+    background-color: whitesmoke;
+}
+#sec2{
+    background-color: black;
+}
+#sec2:hover{
+    background-color: gray;
+}
+#line{
+    background-color: black;
+}
+#img4{
+    width: 75vw;
+    height: 80vh;
+}
+#locbg{
+    background-color: white;
+}
+#seclast{
+    background-color: white;
+    color: white;
+}
+/* #seclast p{
+    color: white;
+}
+#seclast p a{
+    color: white;
+}
+#seclast span path{
+    color: white;
+} */
+#real{
+    width: 80px;
+    height: 80px;
+    background-color: transparent;
+}
+#lastdiv{
+    /* align-items: center; */
+    justify-content: center;
+}
+#land{
+    width: 100vw;
+}

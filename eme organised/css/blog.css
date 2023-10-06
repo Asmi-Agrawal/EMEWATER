@@ -1,0 +1,161 @@
+.logo{
+    width: 68px;
+    height: 63px;
+    position: absolute;
+    left: 1%;
+    border-radius: 50%;
+    /* top: 0%; */
+}
+#get{
+    color: black;
+    background-color: lightgray;
+}
+#get:hover{
+    background-color: white;
+}
+#name{
+    color: white;
+}
+#nav1{
+    color: lightgray;
+}
+#nav1:hover{
+color: white;
+font-weight: 500;
+}
+#nav2{
+    color: lightgray;
+}
+#nav2:hover{
+color: white;
+font-weight: 500;
+}
+#nav3{
+    color: lightgray;
+}
+#nav3:hover{
+color: white;
+font-weight: 500;
+}
+#nav4{
+    color: lightgray;
+}
+#nav4:hover{
+color: white;
+font-weight: 500;
+}
+#real{
+    width: 80px;
+    height: 80px;
+    background-color: transparent;
+}
+header{
+    background-color: black;
+}
+/* #img7{
+    width: 20vw;
+    height: 30vh;
+}
+#img8{
+    width: 20vw;
+    height: 30vh;
+} */
+#img19{
+    width: 50vw;
+    height: 80vh;
+}
+#divv{
+    margin: 55px;
+}
+/* #img10{ */
+    /* width: 15vw;
+    height: 30vh; */
+/* } */
+/* #img11{
+    width: 55vw;
+    /* height: 30vh; */
+ */
+#divv2{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+/* #div3{
+    margin: 60px;
+    height: 60vh;
+}
+#img12{
+    width: 30vw;
+    height: 40vh;
+}
+#img9{
+    width: 30vw;
+    height: 40vh;
+}
+#img11{
+    width: 30vw;
+    height: 40vh;
+}
+#img7{
+    width: 30vw;
+    height: 40vh;
+}
+#img15{
+    width: 30vw;
+    height: 40vh;
+}
+#img8{
+    width: 30vw;
+    height: 40vh;
+}
+#div4{
+    margin-top: 90px;
+}
+#div5{
+    margin-top: 10px;
+} */
+#imgg4{
+    width: 60vw;
+}
+#vid{
+    width: 100vw;
+    /* height: 50vh;
+    background-color: white; */
+}
+#learn{
+    color: black;
+    font-weight: 600;
+}
+#lastdiv{
+    /* align-items: center; */
+    justify-content: center;
+}
+#locbg{
+    background-color: whitesmoke;
+}
+#land{
+    width: 100vw;
+}
+#but1{
+    background-color: black;
+}
+
+#but1:hover{
+    background-color: gray;
+}
+#real{
+    width: 80px;
+    height: 80px;
+    background-color: transparent;
+}
+#black{
+    background-color: black;
+    color: lightgray;
+}
+#black h1{
+    color: white;
+}
+#black h2{
+    color: gray;
+}

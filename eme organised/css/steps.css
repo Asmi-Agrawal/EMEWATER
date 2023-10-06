@@ -1,0 +1,91 @@
+.logo{
+    width: 68px;
+    height: 63px;
+    position: absolute;
+    left: 1%;
+    border-radius: 50%;
+    /* top: 0%; */
+}
+#get{
+    color: black;
+    background-color: lightgray;
+}
+#get:hover{
+    background-color: white;
+}
+#name{
+    color: white;
+}
+#nav1{
+    color: lightgray;
+}
+#nav1:hover{
+color: white;
+font-weight: 500;
+}
+#nav2{
+    color: lightgray;
+}
+#nav2:hover{
+color: white;
+font-weight: 500;
+}
+#nav3{
+    color: lightgray;
+}
+#nav3:hover{
+color: white;
+font-weight: 500;
+}
+#nav4{
+    color: lightgray;
+}
+#nav4:hover{
+color: white;
+font-weight: 500;
+}
+#but1{
+    background-color: black;
+}
+
+#but1:hover{
+    background-color: gray;
+}
+#real{
+    width: 80px;
+    height: 80px;
+    background-color: transparent;
+}
+header{
+    background-color: black;
+}
+#img{
+    /* width: 50vw; */
+    height: 80vh;
+}
+#sec{
+    background-color: whitesmoke;
+}
+#img1{
+    background-color: black;
+}
+#lastdiv{
+    /* align-items: center; */
+    justify-content: center;
+}
+#locbg{
+    background-color: whitesmoke;
+}
+#land{
+    width: 100vw;
+}
+#vid{
+    width: 100vw;
+    /* height: 100px; */
+    /* height: 50vh; */
+    /* align-items: center;
+    justify-content: center;
+    text-align: center; */
+    
+    /* background-color: white; */
+}
